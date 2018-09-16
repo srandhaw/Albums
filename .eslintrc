@@ -1,0 +1,7 @@
+{ 
+    "extends": "rallycoding",
+    "globals": {
+        "fetch": false
+      },
+      "arrow-body-style": ["error", "as-needed"]
+}
